@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-If deployed on Streamlit Cloud or any platform, add the link here.
+[Live Demo](https://multiple-disease-prediction-2k5xyqhqhchfsuxsgonzii.streamlit.app/)
 
 ---
 
