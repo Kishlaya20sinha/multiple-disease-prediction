@@ -118,7 +118,7 @@ If deployed on Streamlit Cloud or any platform, add the link here.
 
 **Kishlaya Sinha**  
 📧 kishlaya20sinha@gmail.com  
-🔗 [Portfolio](#) | [GitHub](https://github.com/kishlayasinha) | [LinkedIn](https://www.linkedin.com/in/kishlayasinha/)
+🔗 | [GitHub](https://github.com/Kishlaya20sinha) | [LinkedIn](https://www.linkedin.com/in/kishlaya-sinha-9134a0211/)
 
 ---
 
