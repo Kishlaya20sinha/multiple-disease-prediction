@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[Live Demo](https://multiple-disease-prediction-2k5xyqhqhchfsuxsgonzii.streamlit.app/)
+[Multiple-Disease-Prediction](https://multiple-disease-prediction-2k5xyqhqhchfsuxsgonzii.streamlit.app/)
 
 ---
 
